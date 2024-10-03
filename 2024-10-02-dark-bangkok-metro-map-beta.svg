@@ -1,0 +1,2208 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="9000"
+   height="9000"
+   viewBox="0 0 2381.25 2381.25"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   sodipodi:docname="bangkok-metro-map-beta-dark.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="0.1767767"
+     inkscape:cx="4245.4691"
+     inkscape:cy="4214.3564"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g25" />
+  <defs
+     id="defs1" />
+  <rect
+     style="fill:#0a0a0a;fill-opacity:1;stroke:none;stroke-width:2.6942"
+     id="rect43"
+     width="2381.25"
+     height="2381.25"
+     x="0"
+     y="0"
+     inkscape:label="background"
+     sodipodi:insensitive="true" />
+  <g
+     inkscape:groupmode="layer"
+     id="g83"
+     inkscape:label="route_pink"
+     inkscape:highlight-color="#ce5981" />
+  <g
+     inkscape:groupmode="layer"
+     id="g26"
+     inkscape:label="routes_n_green"
+     inkscape:highlight-color="#00fe00"
+     transform="translate(-14.918327,120.26575)"
+     style="display:inline" />
+  <g
+     inkscape:groupmode="layer"
+     id="g92"
+     inkscape:label="names_w_green"
+     inkscape:highlight-color="#02817d" />
+  <g
+     inkscape:groupmode="layer"
+     id="g84"
+     inkscape:label="names_pink"
+     inkscape:highlight-color="#ce5981" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="names_n_green"
+     inkscape:highlight-color="#00fe00"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-weight:400;font-size:7.9375px;line-height:1.67;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';display:inline;fill:#fafafa;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none"
+       x="1359.625"
+       y="5.8329773"
+       id="text11"
+       inkscape:label="N24_name_align_left"
+       inkscape:highlight-color="#00fe00"><tspan
+         sodipodi:role="line"
+         style="font-size:7.9375px;fill:#fafafa;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none"
+         x="1359.625"
+         y="5.8329773"
+         id="tspan9">Khu  Khot</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.9375px;fill:#fafafa;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none"
+         x="1359.625"
+         y="19.753992"
+         id="tspan11">คูคต</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:400;font-size:7.9375px;line-height:1.67;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';display:inline;fill:#fafafa;fill-opacity:1;stroke-width:0.264583"
+       x="1359.7723"
+       y="58.749645"
+       id="text14"
+       inkscape:label="N23_name_align_left"
+       inkscape:highlight-color="#00fe00"><tspan
+         sodipodi:role="line"
+         style="font-size:7.9375px;fill:#fafafa;fill-opacity:1;stroke-width:0.264583"
+         x="1359.7723"
+         y="58.749645"
+         id="tspan14">Yaek Kor Por Aor</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.9375px;fill:#fafafa;fill-opacity:1;stroke-width:0.264583"
+         x="1359.7723"
+         y="72.670662"
+         id="tspan20">แยก คปอ.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:400;font-size:7.9375px;line-height:1.67;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';display:inline;fill:#fafafa;fill-opacity:1;stroke-width:0.264583"
+       x="1359.7759"
+       y="111.66631"
+       id="text18"
+       inkscape:label="N22_name_align_left"
+       inkscape:highlight-color="#00fe00"><tspan
+         sodipodi:role="line"
+         style="font-size:7.9375px;fill:#fafafa;fill-opacity:1;stroke-width:0.264583"
+         x="1359.7759"
+         y="111.66631"
+         id="tspan18">Royal Thai Air Force Museum</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.9375px;fill:#fafafa;fill-opacity:1;stroke-width:0.264583"
+         x="1359.7759"
+         y="125.58733"
+         id="tspan21">พิพิธภัณฑ์กองทัพอากาศ  </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:400;font-size:7.9375px;line-height:1.67;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';display:inline;fill:#fafafa;fill-opacity:1;stroke-width:0.264583"
+       x="1360.403"
+       y="164.58298"
+       id="text7"
+       inkscape:label="N21_name_align_left"
+       inkscape:highlight-color="#00fe00"><tspan
+         sodipodi:role="line"
+         style="font-size:7.9375px;fill:#fafafa;fill-opacity:1;stroke-width:0.264583"
+         x="1360.403"
+         y="164.58298"
+         id="tspan7">Bhumibol Adulyadej Hospital</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.9375px;fill:#fafafa;fill-opacity:1;stroke-width:0.264583"
+         x="1360.403"
+         y="178.504"
+         id="tspan13">โรงพยาบาลภูมิพลอดุลยเดช</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:400;font-size:7.9375px;line-height:1.67;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';display:inline;fill:#fafafa;fill-opacity:1;stroke-width:0.264583"
+       x="1359.7759"
+       y="217.49965"
+       id="text24"
+       inkscape:label="N20_name_align_left"
+       inkscape:highlight-color="#00fe00"><tspan
+         sodipodi:role="line"
+         style="font-size:7.9375px;fill:#fafafa;fill-opacity:1;stroke-width:0.264583"
+         x="1359.7759"
+         y="217.49965"
+         id="tspan24">Saphan Mai</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.9375px;fill:#fafafa;fill-opacity:1;stroke-width:0.264583"
+         x="1359.7759"
+         y="231.42067"
+         id="tspan31">สะพานใหม่ </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:400;font-size:7.9375px;line-height:1.67;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';display:inline;fill:#fafafa;fill-opacity:1;stroke-width:0.264583"
+       x="1359.7759"
+       y="270.41632"
+       id="text37"
+       inkscape:label="N19_name_align_left"
+       inkscape:highlight-color="#00fe00"><tspan
+         sodipodi:role="line"
+         style="font-size:7.9375px;fill:#fafafa;fill-opacity:1;stroke-width:0.264583"
+         x="1359.7759"
+         y="270.41632"
+         id="tspan36">Sai Yud</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.9375px;fill:#fafafa;fill-opacity:1;stroke-width:0.264583"
+         x="1359.7759"
+         y="284.33734"
+         id="tspan38">สายหยุด</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:400;font-size:7.9375px;line-height:1.67;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';display:inline;fill:#fafafa;fill-opacity:1;stroke-width:0.264583"
+       x="1359.7759"
+       y="323.33298"
+       id="text40"
+       inkscape:label="N18_name_align_left"
+       inkscape:highlight-color="#00fe00"><tspan
+         sodipodi:role="line"
+         style="font-size:7.9375px;fill:#fafafa;fill-opacity:1;stroke-width:0.264583"
+         x="1359.7759"
+         y="323.33298"
+         id="tspan40">Phahon Yothin 59</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.9375px;fill:#fafafa;fill-opacity:1;stroke-width:0.264583"
+         x="1359.7759"
+         y="337.254"
+         id="tspan41">พหลโยธิน 59</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:400;font-size:7.9375px;line-height:1.67;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';display:inline;fill:#fafafa;fill-opacity:1;stroke-width:0.264583"
+       x="1359.7758"
+       y="429.16632"
+       id="text45"
+       inkscape:label="N16_name_align_left"
+       inkscape:highlight-color="#00fe00"><tspan
+         sodipodi:role="line"
+         style="font-size:7.9375px;fill:#fafafa;fill-opacity:1;stroke-width:0.264583"
+         x="1359.7758"
+         y="429.16632"
+         id="tspan45">11th Infantry Regiment</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.9375px;fill:#fafafa;fill-opacity:1;stroke-width:0.264583"
+         x="1359.7758"
+         y="443.08734"
+         id="tspan79">กรมทหารราบที่ 11</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:400;font-size:7.9375px;line-height:1.67;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';display:inline;fill:#fafafa;fill-opacity:1;stroke-width:0.264583"
+       x="1359.7758"
+       y="482.08298"
+       id="text47"
+       inkscape:label="N15_name_align_left"
+       inkscape:highlight-color="#00fe00"><tspan
+         sodipodi:role="line"
+         style="font-size:7.9375px;fill:#fafafa;fill-opacity:1;stroke-width:0.264583"
+         x="1359.7758"
+         y="482.08298"
+         id="tspan47">Bang Bua</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.9375px;fill:#fafafa;fill-opacity:1;stroke-width:0.264583"
+         x="1359.7758"
+         y="496.004"
+         id="tspan85">บางบัว </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:400;font-size:7.9375px;line-height:1.67;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';display:inline;fill:#fafafa;fill-opacity:1;stroke-width:0.264583"
+       x="1359.6171"
+       y="534.99963"
+       id="text49"
+       inkscape:label="N14_name_align_left"
+       inkscape:highlight-color="#00fe00"><tspan
+         sodipodi:role="line"
+         style="font-size:7.9375px;fill:#fafafa;fill-opacity:1;stroke-width:0.264583"
+         x="1359.6171"
+         y="534.99963"
+         id="tspan49">Royal Forest Department</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.9375px;fill:#fafafa;fill-opacity:1;stroke-width:0.264583"
+         x="1359.6171"
+         y="548.92065"
+         id="tspan86">กรมป่าไม้ </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:400;font-size:7.9375px;line-height:1.67;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';display:inline;fill:#fafafa;fill-opacity:1;stroke-width:0.264583"
+       x="1359.7758"
+       y="587.91632"
+       id="text51"
+       inkscape:label="N13_name_align_left"
+       inkscape:highlight-color="#00fe00"><tspan
+         sodipodi:role="line"
+         style="font-size:7.9375px;fill:#fafafa;fill-opacity:1;stroke-width:0.264583"
+         x="1359.7758"
+         y="587.91632"
+         id="tspan51">Kasetsart University</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.9375px;fill:#fafafa;fill-opacity:1;stroke-width:0.264583"
+         x="1359.7758"
+         y="601.83734"
+         id="tspan87">มหาวิทยาลัยเกษตรศาสตร์</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:400;font-size:7.9375px;line-height:1.67;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';display:inline;fill:#fafafa;fill-opacity:1;stroke-width:0.264583"
+       x="1359.7758"
+       y="640.83301"
+       id="text53"
+       inkscape:label="N12_name_align_left"
+       inkscape:highlight-color="#00fe00"><tspan
+         sodipodi:role="line"
+         style="font-size:7.9375px;fill:#fafafa;fill-opacity:1;stroke-width:0.264583"
+         x="1359.7758"
+         y="640.83301"
+         id="tspan53">Sena Nikhom</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.9375px;fill:#fafafa;fill-opacity:1;stroke-width:0.264583"
+         x="1359.7758"
+         y="654.75403"
+         id="tspan88">เสนานิคม </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:400;font-size:7.9375px;line-height:1.67;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';display:inline;fill:#fafafa;fill-opacity:1;stroke-width:0.264583"
+       x="1359.7758"
+       y="693.74963"
+       id="text55"
+       inkscape:label="N11_name_align_left"
+       inkscape:highlight-color="#00fe00"><tspan
+         sodipodi:role="line"
+         style="font-size:7.9375px;fill:#fafafa;fill-opacity:1;stroke-width:0.264583"
+         x="1359.7758"
+         y="693.74963"
+         id="tspan55">Ratchayothin</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.9375px;fill:#fafafa;fill-opacity:1;stroke-width:0.264583"
+         x="1359.7758"
+         y="707.67065"
+         id="tspan89">รัชโยธิน</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:400;font-size:7.9375px;line-height:1.67;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';display:inline;fill:#fafafa;fill-opacity:1;stroke-width:0.264583"
+       x="1317.625"
+       y="749.17938"
+       id="text76"
+       inkscape:label="N10_name_align_left"
+       inkscape:highlight-color="#00fe00"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.9375px;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Monda, Sarabun, Hahmlet Bold';text-align:end;text-anchor:end;fill:#fafafa;fill-opacity:1;stroke-width:0.264583"
+         x="1317.625"
+         y="749.17938"
+         id="tspan76">Phahon Yothin 24</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.9375px;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Monda, Sarabun, Hahmlet Bold';text-align:end;text-anchor:end;fill:#fafafa;fill-opacity:1;stroke-width:0.264583"
+         x="1319.6249"
+         y="763.1004"
+         id="tspan90">พหลโยธิน 24 </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:400;font-size:7.98663px;line-height:1.67;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';display:inline;fill:#fafafa;fill-opacity:1;stroke-width:0.266221"
+       x="1359.6788"
+       y="958.37701"
+       id="text56"
+       inkscape:label="N7_name_align_left"
+       inkscape:highlight-color="#00fe00"><tspan
+         sodipodi:role="line"
+         style="font-size:7.98663px;fill:#fafafa;fill-opacity:1;stroke-width:0.266221"
+         x="1359.6788"
+         y="958.37701"
+         id="tspan56">Saphan Khwai</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.98663px;fill:#fafafa;fill-opacity:1;stroke-width:0.266221"
+         x="1359.6788"
+         y="972.38422"
+         id="tspan57">สะพานควาย </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-weight:400;font-size:7.98663px;line-height:1.67;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';display:inline;fill:#fafafa;fill-opacity:1;stroke-width:0.266221"
+       x="1359.6788"
+       y="1011.2858"
+       id="text59"
+       inkscape:label="N6_name_align_left"
+       inkscape:highlight-color="#00fe00"><tspan
+         sodipodi:role="line"
+         style="font-size:7.98663px;fill:#fafafa;fill-opacity:1;stroke-width:0.266221"
+         x="1359.6788"
+         y="1011.2858"
+         id="tspan59">Sena Ruam </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.98663px;fill:#fafafa;fill-opacity:1;stroke-width:0.266221"
+         x="1359.6788"
+         y="1025.293"
+         id="tspan70">เสนาร่วม</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:400;font-size:7.98663px;line-height:1.67;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';display:inline;fill:#fafafa;fill-opacity:1;stroke-width:0.266221"
+       x="1359.6788"
+       y="1064.2024"
+       id="text61"
+       inkscape:label="N5_name_align_left"
+       inkscape:highlight-color="#00fe00"><tspan
+         sodipodi:role="line"
+         style="font-size:7.98663px;fill:#fafafa;fill-opacity:1;stroke-width:0.266221"
+         x="1359.6788"
+         y="1064.2024"
+         id="tspan61">Ari</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.98663px;fill:#fafafa;fill-opacity:1;stroke-width:0.266221"
+         x="1359.6788"
+         y="1078.2096"
+         id="tspan71">อารีย์ </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:400;font-size:7.98663px;line-height:1.67;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';display:inline;fill:#fafafa;fill-opacity:1;stroke-width:0.266221"
+       x="1359.6788"
+       y="1117.1191"
+       id="text63"
+       inkscape:label="N4_name_align_left"
+       inkscape:highlight-color="#00fe00"><tspan
+         sodipodi:role="line"
+         style="font-size:7.98663px;fill:#fafafa;fill-opacity:1;stroke-width:0.266221"
+         x="1359.6788"
+         y="1117.1191"
+         id="tspan63">Sanam Pao</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.98663px;fill:#fafafa;fill-opacity:1;stroke-width:0.266221"
+         x="1359.6788"
+         y="1131.1263"
+         id="tspan72">สนามเป้า </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:400;font-size:7.98663px;line-height:1.67;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';display:inline;fill:#fafafa;fill-opacity:1;stroke-width:0.266221"
+       x="1359.6788"
+       y="1170.0358"
+       id="text65"
+       inkscape:label="N3_name_align_left"
+       inkscape:highlight-color="#00fe00"><tspan
+         sodipodi:role="line"
+         style="font-size:7.98663px;fill:#fafafa;fill-opacity:1;stroke-width:0.266221"
+         x="1359.6788"
+         y="1170.0358"
+         id="tspan65">Victory Monument</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.98663px;fill:#fafafa;fill-opacity:1;stroke-width:0.266221"
+         x="1359.6788"
+         y="1184.043"
+         id="tspan74">อนุสาวรีย์ชัยสมรภูมิ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:400;font-size:7.98663px;line-height:1.67;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';display:inline;fill:#fafafa;fill-opacity:1;stroke-width:0.266221"
+       x="1323.603"
+       y="1254.7024"
+       id="text67"
+       inkscape:label="N2_name_align_right"
+       inkscape:highlight-color="#00fe00"><tspan
+         sodipodi:role="line"
+         style="font-size:7.98663px;text-align:end;text-anchor:end;fill:#fafafa;fill-opacity:1;stroke-width:0.266221"
+         x="1323.603"
+         y="1254.7024"
+         id="tspan73">Phaya Thai</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.98663px;text-align:end;text-anchor:end;fill:#fafafa;fill-opacity:1;stroke-width:0.266221"
+         x="1323.603"
+         y="1268.7096"
+         id="tspan75">พญาไท</tspan></text>
+    <text
+       xml:space="preserve"
+       style="display:inline;font-weight:400;font-size:7.98663px;line-height:1.67;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';fill:#fafafa;fill-opacity:1;stroke-width:0.266221"
+       x="1323.603"
+       y="1332.6422"
+       id="text69"
+       inkscape:label="N1_name_align_right"
+       inkscape:highlight-color="#00fe00"><tspan
+         sodipodi:role="line"
+         style="font-size:7.98663px;text-align:end;text-anchor:end;fill:#fafafa;fill-opacity:1;stroke-width:0.266221"
+         x="1323.603"
+         y="1332.6422"
+         id="tspan69">Ratchathewi</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.98663px;text-align:end;text-anchor:end;fill:#fafafa;fill-opacity:1;stroke-width:0.266221"
+         x="1323.603"
+         y="1346.6494"
+         id="tspan77">ราชเทวี</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.98663px;text-align:end;text-anchor:end;fill:#fafafa;fill-opacity:1;stroke-width:0.266221"
+         x="1323.603"
+         y="1360.6566"
+         id="tspan83" /></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g110"
+     inkscape:label="names_blue"
+     inkscape:highlight-color="#1964b7">
+    <text
+       xml:space="preserve"
+       style="font-weight:400;font-size:7.98663px;line-height:1.67;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';text-align:start;text-anchor:start;display:inline;fill:#fafafa;fill-opacity:1;stroke-width:0.266221"
+       x="1322.5732"
+       y="831.48981"
+       id="text123"
+       inkscape:label="BL12_name_align_left"
+       inkscape:highlight-color="#1964b7"
+       transform="translate(-100.5417,158.62927)"><tspan
+         sodipodi:role="line"
+         style="font-size:7.98663px;text-align:start;text-anchor:start;fill:#fafafa;fill-opacity:1;stroke-width:0.266221"
+         x="1322.5732"
+         y="831.48981"
+         id="tspan123">Kamphaeng Phet</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.98663px;text-align:start;text-anchor:start;fill:#fafafa;fill-opacity:1;stroke-width:0.266221"
+         x="1322.5732"
+         y="845.49701"
+         id="tspan127">กำแพงเพชร</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="icons_w_green"
+     inkscape:highlight-color="#02817d" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="icons_pink"
+     inkscape:highlight-color="#ce5981" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="icons_yellow"
+     inkscape:highlight-color="#f4da01">
+    <g
+       id="g176"
+       inkscape:label="YLEX01_cluster">
+      <g
+         id="g113"
+         transform="matrix(1.2000001,0,0,1.2000001,1441.351,717.52514)"
+         inkscape:label="YLEX01_circle"
+         style="display:inline"
+         inkscape:highlight-color="#f4da01">
+        <circle
+           style="fill:#665b00;fill-opacity:1;stroke-width:0.350021"
+           id="circle108"
+           cx="33.229168"
+           cy="32.746574"
+           r="13.229166" />
+        <circle
+           style="display:inline;fill:#292400;fill-opacity:1;stroke-width:0.324094"
+           id="circle109"
+           cx="33.229172"
+           cy="32.746571"
+           r="11.024304" />
+        <text
+           xml:space="preserve"
+           style="font-weight:700;font-size:7.9375px;line-height:1.03;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';text-align:center;text-anchor:middle;display:inline;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+           x="33.045074"
+           y="31.186354"
+           id="text110"
+           inkscape:label="code"><tspan
+             sodipodi:role="line"
+             style="font-size:7.9375px;text-align:center;text-anchor:middle;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+             x="33.045074"
+             y="31.186354"
+             id="tspan109">YLEX</tspan><tspan
+             sodipodi:role="line"
+             style="font-size:7.9375px;text-align:center;text-anchor:middle;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+             x="33.045074"
+             y="40.027367"
+             id="tspan110">01</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-weight:400;font-size:7.98663px;line-height:1.67;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';display:inline;fill:#fafafa;fill-opacity:1;stroke-width:0.266221"
+         x="1496.8694"
+         y="726.85901"
+         id="text114"
+         inkscape:label="YLEX01_name_align_left"
+         inkscape:highlight-color="#f4da01"><tspan
+           sodipodi:role="line"
+           style="font-size:7.98663px;fill:#fafafa;fill-opacity:1;stroke-width:0.266221"
+           x="1496.8694"
+           y="726.85901"
+           id="tspan114">Chankasem</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:7.98663px;fill:#fafafa;fill-opacity:1;stroke-width:0.266221"
+           x="1496.8694"
+           y="740.86621"
+           id="tspan115">จันทรเกษม </tspan></text>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g25"
+     inkscape:label="icons_n_green"
+     inkscape:highlight-color="#00fe00"
+     style="display:inline">
+    <g
+       id="g33"
+       transform="matrix(1.2000001,0,0,1.2000001,1298.9167,-23.420892)"
+       inkscape:label="N24_circle"
+       style="display:inline"
+       inkscape:highlight-color="#00fe00">
+      <circle
+         style="fill:#76b729;fill-opacity:1;stroke-width:0.350021"
+         id="circle31"
+         cx="33.229168"
+         cy="32.746574"
+         r="13.229166" />
+      <circle
+         style="display:inline;fill:#002a00;fill-opacity:1;stroke-width:0.324094"
+         id="circle32"
+         cx="33.229172"
+         cy="32.746571"
+         r="11.024304" />
+      <text
+         xml:space="preserve"
+         style="font-weight:700;font-size:7.9375px;line-height:1.03;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';text-align:center;text-anchor:middle;display:inline;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+         x="33.171036"
+         y="35.606861"
+         id="text33"
+         inkscape:label="code"><tspan
+           sodipodi:role="line"
+           style="font-size:7.9375px;text-align:center;text-anchor:middle;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+           x="33.171036"
+           y="35.606861"
+           id="tspan33">N24</tspan></text>
+    </g>
+    <g
+       id="g15"
+       transform="matrix(1.2000001,0,0,1.2000001,1298.9167,29.503825)"
+       inkscape:label="N23_circle"
+       style="display:inline"
+       inkscape:highlight-color="#00fe00">
+      <circle
+         style="fill:#76b729;fill-opacity:1;stroke-width:0.350021"
+         id="circle14"
+         cx="33.229168"
+         cy="32.746574"
+         r="13.229166" />
+      <circle
+         style="display:inline;fill:#002a00;fill-opacity:1;stroke-width:0.324094"
+         id="circle15"
+         cx="33.229172"
+         cy="32.746571"
+         r="11.024304" />
+      <text
+         xml:space="preserve"
+         style="font-weight:700;font-size:7.9375px;line-height:1.03;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';text-align:center;text-anchor:middle;display:inline;fill:#fcfcfc;stroke-width:0.264583;fill-opacity:1"
+         x="33.171036"
+         y="35.606861"
+         id="text15"
+         inkscape:label="code"><tspan
+           sodipodi:role="line"
+           style="font-size:7.9375px;text-align:center;text-anchor:middle;fill:#fcfcfc;stroke-width:0.264583;fill-opacity:1"
+           x="33.171036"
+           y="35.606861"
+           id="tspan26">N23</tspan></text>
+    </g>
+    <g
+       id="g30"
+       transform="matrix(1.2000001,0,0,1.2000001,1298.9167,82.42854)"
+       inkscape:label="N22_circle"
+       style="display:inline"
+       inkscape:highlight-color="#00fe00">
+      <circle
+         style="fill:#76b729;fill-opacity:1;stroke-width:0.350021"
+         id="circle29"
+         cx="33.229168"
+         cy="32.746574"
+         r="13.229166" />
+      <circle
+         style="display:inline;fill:#002a00;fill-opacity:1;stroke-width:0.324094"
+         id="circle30"
+         cx="33.229172"
+         cy="32.746571"
+         r="11.024304" />
+      <text
+         xml:space="preserve"
+         style="font-weight:700;font-size:7.9375px;line-height:1.03;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';text-align:center;text-anchor:middle;display:inline;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+         x="33.171036"
+         y="35.606861"
+         id="text30"
+         inkscape:label="code"><tspan
+           sodipodi:role="line"
+           style="font-size:7.9375px;text-align:center;text-anchor:middle;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+           x="33.171036"
+           y="35.606861"
+           id="tspan30">N22</tspan></text>
+    </g>
+    <g
+       id="g34"
+       transform="matrix(1.2000001,0,0,1.2000001,1298.9167,135.35326)"
+       inkscape:label="N21_circle"
+       style="display:inline"
+       inkscape:highlight-color="#00fe00">
+      <circle
+         style="fill:#76b729;fill-opacity:1;stroke-width:0.350021"
+         id="circle33"
+         cx="33.229168"
+         cy="32.746574"
+         r="13.229166" />
+      <circle
+         style="display:inline;fill:#002a00;fill-opacity:1;stroke-width:0.324094"
+         id="circle34"
+         cx="33.229172"
+         cy="32.746571"
+         r="11.024304" />
+      <text
+         xml:space="preserve"
+         style="font-weight:700;font-size:7.9375px;line-height:1.03;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';text-align:center;text-anchor:middle;display:inline;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+         x="33.171036"
+         y="35.606861"
+         id="text34"
+         inkscape:label="code"><tspan
+           sodipodi:role="line"
+           style="font-size:7.9375px;text-align:center;text-anchor:middle;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+           x="33.171036"
+           y="35.606861"
+           id="tspan34">N21</tspan></text>
+    </g>
+    <g
+       id="g36"
+       transform="matrix(1.2000001,0,0,1.2000001,1298.9167,188.27797)"
+       inkscape:label="N20_circle"
+       style="display:inline"
+       inkscape:highlight-color="#00fe00">
+      <circle
+         style="fill:#76b729;fill-opacity:1;stroke-width:0.350021"
+         id="circle35"
+         cx="33.229168"
+         cy="32.746574"
+         r="13.229166" />
+      <circle
+         style="display:inline;fill:#002a00;fill-opacity:1;stroke-width:0.324094"
+         id="circle36"
+         cx="33.229172"
+         cy="32.746571"
+         r="11.024304" />
+      <text
+         xml:space="preserve"
+         style="font-weight:700;font-size:7.9375px;line-height:1.03;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';text-align:center;text-anchor:middle;display:inline;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+         x="33.171036"
+         y="35.606861"
+         id="text36"
+         inkscape:label="code"><tspan
+           sodipodi:role="line"
+           style="font-size:7.9375px;text-align:center;text-anchor:middle;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+           x="33.171036"
+           y="35.606861"
+           id="tspan37">N20</tspan></text>
+    </g>
+    <g
+       id="g36-2"
+       transform="matrix(1.2000001,0,0,1.2000001,1298.9167,241.20269)"
+       inkscape:label="N19_circle"
+       style="display:inline"
+       inkscape:highlight-color="#00fe00">
+      <circle
+         style="fill:#76b729;fill-opacity:1;stroke-width:0.350021"
+         id="circle35-6"
+         cx="33.229168"
+         cy="32.746574"
+         r="13.229166" />
+      <circle
+         style="display:inline;fill:#002a00;fill-opacity:1;stroke-width:0.324094"
+         id="circle36-1"
+         cx="33.229172"
+         cy="32.746571"
+         r="11.024304" />
+      <text
+         xml:space="preserve"
+         style="font-weight:700;font-size:7.9375px;line-height:1.03;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';text-align:center;text-anchor:middle;display:inline;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+         x="33.171036"
+         y="35.606861"
+         id="text36-0"
+         inkscape:label="code"><tspan
+           sodipodi:role="line"
+           style="font-size:7.9375px;text-align:center;text-anchor:middle;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+           x="33.171036"
+           y="35.606861"
+           id="tspan37-6">N19</tspan></text>
+    </g>
+    <g
+       id="g36-4"
+       transform="matrix(1.2000001,0,0,1.2000001,1298.9167,294.12741)"
+       inkscape:label="N18_circle"
+       style="display:inline"
+       inkscape:highlight-color="#00fe00">
+      <circle
+         style="fill:#76b729;fill-opacity:1;stroke-width:0.350021"
+         id="circle35-9"
+         cx="33.229168"
+         cy="32.746574"
+         r="13.229166" />
+      <circle
+         style="display:inline;fill:#002a00;fill-opacity:1;stroke-width:0.324094"
+         id="circle36-0"
+         cx="33.229172"
+         cy="32.746571"
+         r="11.024304" />
+      <text
+         xml:space="preserve"
+         style="font-weight:700;font-size:7.9375px;line-height:1.03;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';text-align:center;text-anchor:middle;display:inline;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+         x="33.171036"
+         y="35.606861"
+         id="text36-9"
+         inkscape:label="code"><tspan
+           sodipodi:role="line"
+           style="font-size:7.9375px;text-align:center;text-anchor:middle;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+           x="33.171036"
+           y="35.606861"
+           id="tspan37-1">N18</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:7.9375px;text-align:center;text-anchor:middle;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+           x="33.171036"
+           y="44.447876"
+           id="tspan1" /></text>
+    </g>
+    <g
+       id="g111"
+       inkscape:label="N17_cluster">
+      <rect
+         style="display:inline;fill:none;stroke:#fafafa;stroke-width:1.40215;stroke-dasharray:none;stroke-opacity:1"
+         id="rect93"
+         width="167.31265"
+         height="35.583939"
+         x="1321.0143"
+         y="368.55606" />
+      <g
+         id="g82"
+         transform="matrix(1.2000001,0,0,1.2000001,1330.6667,347.05213)"
+         inkscape:label="PK16_circle"
+         style="display:inline"
+         inkscape:highlight-color="#ce5981">
+        <circle
+           style="fill:#ce5981;fill-opacity:1;stroke-width:0.34991143;stroke-dasharray:none"
+           id="circle81"
+           cx="33.229168"
+           cy="32.746574"
+           r="13.229166" />
+        <circle
+           style="display:inline;fill:#200911;fill-opacity:1;stroke-width:0.324094"
+           id="circle82"
+           cx="33.229172"
+           cy="32.746571"
+           r="11.024304" />
+        <text
+           xml:space="preserve"
+           style="font-weight:700;font-size:7.9375px;line-height:1.03;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';text-align:center;text-anchor:middle;display:inline;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+           x="32.94043"
+           y="31.134031"
+           id="text82"
+           inkscape:label="code"><tspan
+             sodipodi:role="line"
+             style="font-size:7.9375px;text-align:center;text-anchor:middle;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+             x="32.94043"
+             y="31.134031"
+             id="tspan82">PK</tspan><tspan
+             sodipodi:role="line"
+             style="font-size:7.9375px;text-align:center;text-anchor:middle;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+             x="32.94043"
+             y="39.975048"
+             id="tspan84">16</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-weight:700;font-size:7.98663px;line-height:1.67;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';display:inline;fill:#fafafa;fill-opacity:1;stroke-width:0.266221"
+         x="1391.5885"
+         y="380.96118"
+         id="text43"
+         inkscape:label="N17_name_align_left"
+         inkscape:highlight-color="#00fe00"><tspan
+           sodipodi:role="line"
+           style="font-size:7.98663px;fill:#fafafa;fill-opacity:1;stroke-width:0.266221"
+           x="1391.5885"
+           y="380.96118"
+           id="tspan78">Wat Phra Sri Mahathat</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:7.98663px;fill:#fafafa;fill-opacity:1;stroke-width:0.266221"
+           x="1391.5885"
+           y="394.96835"
+           id="tspan80">วัดพระศรีมหาธาตุ</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:7.98663px;fill:#fafafa;fill-opacity:1;stroke-width:0.266221"
+           x="1391.5885"
+           y="408.97556"
+           id="tspan81" /></text>
+      <g
+         id="g36-1"
+         transform="matrix(1.2000001,0,0,1.2000001,1298.9167,347.05213)"
+         inkscape:label="N17_circle"
+         style="display:inline"
+         inkscape:highlight-color="#00fe00">
+        <circle
+           style="fill:#76b729;fill-opacity:1;stroke-width:0.350021"
+           id="circle35-5"
+           cx="33.229168"
+           cy="32.746574"
+           r="13.229166" />
+        <circle
+           style="display:inline;fill:#002a00;fill-opacity:1;stroke-width:0.324094"
+           id="circle36-9"
+           cx="33.229172"
+           cy="32.746571"
+           r="11.024304" />
+        <text
+           xml:space="preserve"
+           style="font-weight:700;font-size:7.9375px;line-height:1.03;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';text-align:center;text-anchor:middle;display:inline;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+           x="33.171036"
+           y="35.606861"
+           id="text36-7"
+           inkscape:label="code"><tspan
+             sodipodi:role="line"
+             style="font-size:7.9375px;text-align:center;text-anchor:middle;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+             x="33.171036"
+             y="35.606861"
+             id="tspan37-7">N17</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g36-6"
+       transform="matrix(1.2000001,0,0,1.2000001,1298.9167,399.97684)"
+       inkscape:label="N16_circle"
+       style="display:inline"
+       inkscape:highlight-color="#00fe00">
+      <circle
+         style="fill:#76b729;fill-opacity:1;stroke-width:0.350021"
+         id="circle35-56"
+         cx="33.229168"
+         cy="32.746574"
+         r="13.229166" />
+      <circle
+         style="display:inline;fill:#002a00;fill-opacity:1;stroke-width:0.324094"
+         id="circle36-3"
+         cx="33.229172"
+         cy="32.746571"
+         r="11.024304" />
+      <text
+         xml:space="preserve"
+         style="font-weight:700;font-size:7.9375px;line-height:1.03;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';text-align:center;text-anchor:middle;display:inline;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+         x="33.171036"
+         y="35.606861"
+         id="text36-94"
+         inkscape:label="code"><tspan
+           sodipodi:role="line"
+           style="font-size:7.9375px;text-align:center;text-anchor:middle;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+           x="33.171036"
+           y="35.606861"
+           id="tspan37-8">N16</tspan></text>
+    </g>
+    <g
+       id="g36-3"
+       transform="matrix(1.2000001,0,0,1.2000001,1298.9167,452.90155)"
+       inkscape:label="N15_circle"
+       style="display:inline"
+       inkscape:highlight-color="#00fe00">
+      <circle
+         style="fill:#76b729;fill-opacity:1;stroke-width:0.350021"
+         id="circle35-90"
+         cx="33.229168"
+         cy="32.746574"
+         r="13.229166" />
+      <circle
+         style="display:inline;fill:#002a00;fill-opacity:1;stroke-width:0.324094"
+         id="circle36-8"
+         cx="33.229172"
+         cy="32.746571"
+         r="11.024304" />
+      <text
+         xml:space="preserve"
+         style="font-weight:700;font-size:7.9375px;line-height:1.03;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';text-align:center;text-anchor:middle;display:inline;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+         x="33.171036"
+         y="35.606861"
+         id="text36-8"
+         inkscape:label="code"><tspan
+           sodipodi:role="line"
+           style="font-size:7.9375px;text-align:center;text-anchor:middle;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+           x="33.171036"
+           y="35.606861"
+           id="tspan37-5">N15</tspan></text>
+    </g>
+    <g
+       id="g36-38"
+       transform="matrix(1.2000001,0,0,1.2000001,1298.9167,505.82627)"
+       inkscape:label="N14_circle"
+       style="display:inline"
+       inkscape:highlight-color="#00fe00">
+      <circle
+         style="fill:#76b729;fill-opacity:1;stroke-width:0.350021"
+         id="circle35-561"
+         cx="33.229168"
+         cy="32.746574"
+         r="13.229166" />
+      <circle
+         style="display:inline;fill:#002a00;fill-opacity:1;stroke-width:0.324094"
+         id="circle36-15"
+         cx="33.229172"
+         cy="32.746571"
+         r="11.024304" />
+      <text
+         xml:space="preserve"
+         style="font-weight:700;font-size:7.9375px;line-height:1.03;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';text-align:center;text-anchor:middle;display:inline;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+         x="33.171036"
+         y="35.606861"
+         id="text36-98"
+         inkscape:label="code"><tspan
+           sodipodi:role="line"
+           style="font-size:7.9375px;text-align:center;text-anchor:middle;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+           x="33.171036"
+           y="35.606861"
+           id="tspan37-4">N14</tspan></text>
+    </g>
+    <g
+       id="g36-30"
+       transform="matrix(1.2000001,0,0,1.2000001,1298.9167,558.75099)"
+       inkscape:label="N13_circle"
+       style="display:inline"
+       inkscape:highlight-color="#00fe00">
+      <circle
+         style="fill:#76b729;fill-opacity:1;stroke-width:0.350021"
+         id="circle35-4"
+         cx="33.229168"
+         cy="32.746574"
+         r="13.229166" />
+      <circle
+         style="display:inline;fill:#002a00;fill-opacity:1;stroke-width:0.324094"
+         id="circle36-4"
+         cx="33.229172"
+         cy="32.746571"
+         r="11.024304" />
+      <text
+         xml:space="preserve"
+         style="font-weight:700;font-size:7.9375px;line-height:1.03;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';text-align:center;text-anchor:middle;display:inline;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+         x="33.171036"
+         y="35.606861"
+         id="text36-4"
+         inkscape:label="code"><tspan
+           sodipodi:role="line"
+           style="font-size:7.9375px;text-align:center;text-anchor:middle;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+           x="33.171036"
+           y="35.606861"
+           id="tspan37-47">N13</tspan></text>
+    </g>
+    <g
+       id="g36-7"
+       transform="matrix(1.2000001,0,0,1.2000001,1298.9167,611.6757)"
+       inkscape:label="N12_circle"
+       style="display:inline"
+       inkscape:highlight-color="#00fe00">
+      <circle
+         style="fill:#76b729;fill-opacity:1;stroke-width:0.350021"
+         id="circle35-59"
+         cx="33.229168"
+         cy="32.746574"
+         r="13.229166" />
+      <circle
+         style="display:inline;fill:#002a00;fill-opacity:1;stroke-width:0.324094"
+         id="circle36-6"
+         cx="33.229172"
+         cy="32.746571"
+         r="11.024304" />
+      <text
+         xml:space="preserve"
+         style="font-weight:700;font-size:7.9375px;line-height:1.03;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';text-align:center;text-anchor:middle;display:inline;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+         x="33.171036"
+         y="35.606861"
+         id="text36-2"
+         inkscape:label="code"><tspan
+           sodipodi:role="line"
+           style="font-size:7.9375px;text-align:center;text-anchor:middle;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+           x="33.171036"
+           y="35.606861"
+           id="tspan37-17">N12</tspan></text>
+    </g>
+    <g
+       id="g36-18"
+       transform="matrix(1.2000001,0,0,1.2000001,1298.9167,664.60042)"
+       inkscape:label="N11_circle"
+       style="display:inline"
+       inkscape:highlight-color="#00fe00">
+      <circle
+         style="fill:#76b729;fill-opacity:1;stroke-width:0.350021"
+         id="circle35-96"
+         cx="33.229168"
+         cy="32.746574"
+         r="13.229166" />
+      <circle
+         style="display:inline;fill:#002a00;fill-opacity:1;stroke-width:0.324094"
+         id="circle36-43"
+         cx="33.229172"
+         cy="32.746571"
+         r="11.024304" />
+      <text
+         xml:space="preserve"
+         style="font-weight:700;font-size:7.9375px;line-height:1.03;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';text-align:center;text-anchor:middle;display:inline;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+         x="33.171036"
+         y="35.606861"
+         id="text36-3"
+         inkscape:label="code"><tspan
+           sodipodi:role="line"
+           style="font-size:7.9375px;text-align:center;text-anchor:middle;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+           x="33.171036"
+           y="35.606861"
+           id="tspan2">N11</tspan></text>
+    </g>
+    <g
+       id="g75"
+       inkscape:label="N10_cluster">
+      <g
+         id="g36-41"
+         transform="matrix(1.2000001,0,0,1.2000001,1298.9167,717.52514)"
+         inkscape:label="N10_circle"
+         style="display:inline"
+         inkscape:highlight-color="#00fe00">
+        <circle
+           style="fill:#76b729;fill-opacity:1;stroke-width:0.350021"
+           id="circle35-8"
+           cx="33.229168"
+           cy="32.746574"
+           r="13.229166" />
+        <circle
+           style="display:inline;fill:#002a00;fill-opacity:1;stroke-width:0.324094"
+           id="circle36-5"
+           cx="33.229172"
+           cy="32.746571"
+           r="11.024304" />
+        <text
+           xml:space="preserve"
+           style="font-weight:700;font-size:7.9375px;line-height:1.03;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';text-align:center;text-anchor:middle;display:inline;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+           x="33.171036"
+           y="35.606861"
+           id="text36-97"
+           inkscape:label="code"><tspan
+             sodipodi:role="line"
+             style="font-size:7.9375px;text-align:center;text-anchor:middle;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+             x="33.171036"
+             y="35.606861"
+             id="tspan37-53">N10</tspan></text>
+      </g>
+      <rect
+         style="display:inline;fill:none;stroke:#fafafa;stroke-width:1.32291667;stroke-dasharray:7.9374377,1.32291667;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect75"
+         width="145.42924"
+         height="47.053757"
+         x="1245.4017"
+         y="731.47021" />
+      <g
+         id="g108"
+         transform="matrix(1.2000001,0,0,1.2000001,1330.6667,717.52513)"
+         inkscape:label="YLEX02_circle"
+         style="display:inline"
+         inkscape:highlight-color="#f4da01">
+        <circle
+           style="fill:#665b00;fill-opacity:1;stroke-width:0.350021"
+           id="circle104"
+           cx="33.229168"
+           cy="32.746574"
+           r="13.229166" />
+        <circle
+           style="display:inline;fill:#292400;fill-opacity:1;stroke-width:0.324094"
+           id="circle105"
+           cx="33.229172"
+           cy="32.746571"
+           r="11.024304" />
+        <text
+           xml:space="preserve"
+           style="font-weight:700;font-size:7.9375px;line-height:1.03;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';text-align:center;text-anchor:middle;display:inline;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+           x="33.045074"
+           y="31.186354"
+           id="text108"
+           inkscape:label="code"><tspan
+             sodipodi:role="line"
+             style="font-size:7.9375px;text-align:center;text-anchor:middle;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+             x="33.045074"
+             y="31.186354"
+             id="tspan106">YLEX</tspan><tspan
+             sodipodi:role="line"
+             style="font-size:7.9375px;text-align:center;text-anchor:middle;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+             x="33.045074"
+             y="40.027367"
+             id="tspan108">02</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g8"
+       transform="matrix(1.2000001,0,0,1.2000001,1298.9167,929.08716)"
+       inkscape:label="N7_circle"
+       style="display:inline"
+       inkscape:highlight-color="#00fe00">
+      <circle
+         style="fill:#76b729;fill-opacity:1;stroke-width:0.350021"
+         id="circle7"
+         cx="33.229168"
+         cy="32.746574"
+         r="13.229166" />
+      <circle
+         style="display:inline;fill:#002a00;fill-opacity:1;stroke-width:0.324094"
+         id="circle8"
+         cx="33.229172"
+         cy="32.746571"
+         r="11.024304" />
+      <text
+         xml:space="preserve"
+         style="font-weight:700;font-size:7.9375px;line-height:1.03;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';text-align:center;text-anchor:middle;display:inline;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+         x="33.171036"
+         y="35.606861"
+         id="text8"
+         inkscape:label="code"><tspan
+           sodipodi:role="line"
+           style="font-size:7.9375px;text-align:center;text-anchor:middle;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+           x="33.171036"
+           y="35.606861"
+           id="tspan8">N7</tspan></text>
+    </g>
+    <g
+       id="g10"
+       transform="matrix(1.2000001,0,0,1.2000001,1298.9167,981.99577)"
+       inkscape:label="N6_circle"
+       style="display:inline"
+       inkscape:highlight-color="#00fe00">
+      <circle
+         style="fill:#72865a;fill-opacity:1;stroke-width:0.34991143;stroke-dasharray:none"
+         id="circle9"
+         cx="33.229168"
+         cy="32.746574"
+         r="13.229166" />
+      <circle
+         style="display:inline;fill:#111911;fill-opacity:1;stroke-width:0.324094"
+         id="circle10"
+         cx="33.229172"
+         cy="32.746571"
+         r="11.024304" />
+      <text
+         xml:space="preserve"
+         style="font-weight:700;font-size:7.9375px;line-height:1.03;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';text-align:center;text-anchor:middle;display:inline;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+         x="33.171036"
+         y="35.606861"
+         id="text10"
+         inkscape:label="code"><tspan
+           sodipodi:role="line"
+           style="font-size:7.9375px;text-align:center;text-anchor:middle;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+           x="33.171036"
+           y="35.606861"
+           id="tspan10">N6</tspan></text>
+    </g>
+    <g
+       id="g12"
+       transform="matrix(1.2000001,0,0,1.2000001,1298.9586,1034.9366)"
+       inkscape:label="N5_circle"
+       style="display:inline"
+       inkscape:highlight-color="#00fe00">
+      <circle
+         style="fill:#76b729;fill-opacity:1;stroke-width:0.350021"
+         id="circle11"
+         cx="33.229168"
+         cy="32.746574"
+         r="13.229166" />
+      <circle
+         style="display:inline;fill:#002a00;fill-opacity:1;stroke-width:0.324094"
+         id="circle12"
+         cx="33.229172"
+         cy="32.746571"
+         r="11.024304" />
+      <text
+         xml:space="preserve"
+         style="font-weight:700;font-size:7.9375px;line-height:1.03;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';text-align:center;text-anchor:middle;display:inline;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+         x="33.171036"
+         y="35.606861"
+         id="text12"
+         inkscape:label="code"><tspan
+           sodipodi:role="line"
+           style="font-size:7.9375px;text-align:center;text-anchor:middle;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+           x="33.171036"
+           y="35.606861"
+           id="tspan12">N5</tspan></text>
+    </g>
+    <g
+       id="g16"
+       transform="matrix(1.2000001,0,0,1.2000001,1299.012,1087.8291)"
+       inkscape:label="N4_circle"
+       style="display:inline"
+       inkscape:highlight-color="#00fe00">
+      <circle
+         style="fill:#76b729;fill-opacity:1;stroke-width:0.350021"
+         id="circle13"
+         cx="33.229168"
+         cy="32.746574"
+         r="13.229166" />
+      <circle
+         style="display:inline;fill:#002a00;fill-opacity:1;stroke-width:0.324094"
+         id="circle16"
+         cx="33.229172"
+         cy="32.746571"
+         r="11.024304" />
+      <text
+         xml:space="preserve"
+         style="font-weight:700;font-size:7.9375px;line-height:1.03;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';text-align:center;text-anchor:middle;display:inline;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+         x="33.171036"
+         y="35.606861"
+         id="text16"
+         inkscape:label="code"><tspan
+           sodipodi:role="line"
+           style="font-size:7.9375px;text-align:center;text-anchor:middle;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+           x="33.171036"
+           y="35.606861"
+           id="tspan16">N4</tspan></text>
+    </g>
+    <g
+       id="g19"
+       transform="matrix(1.2000001,0,0,1.2000001,1299.012,1140.7458)"
+       inkscape:label="N3_circle"
+       style="display:inline"
+       inkscape:highlight-color="#00fe00">
+      <circle
+         style="fill:#76b729;fill-opacity:1;stroke-width:0.350021"
+         id="circle17"
+         cx="33.229168"
+         cy="32.746574"
+         r="13.229166" />
+      <circle
+         style="display:inline;fill:#002a00;fill-opacity:1;stroke-width:0.324094"
+         id="circle18"
+         cx="33.229172"
+         cy="32.746571"
+         r="11.024304" />
+      <text
+         xml:space="preserve"
+         style="font-weight:700;font-size:7.9375px;line-height:1.03;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';text-align:center;text-anchor:middle;display:inline;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+         x="33.171036"
+         y="35.606861"
+         id="text19"
+         inkscape:label="code"><tspan
+           sodipodi:role="line"
+           style="font-size:7.9375px;text-align:center;text-anchor:middle;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+           x="33.171036"
+           y="35.606861"
+           id="tspan19">N3</tspan></text>
+    </g>
+    <g
+       id="g22"
+       transform="matrix(1.2000001,0,0,1.2000001,1299.012,1193.6624)"
+       inkscape:label="N2_circle"
+       style="display:inline"
+       inkscape:highlight-color="#00fe00">
+      <circle
+         style="fill:#76b729;fill-opacity:1;stroke-width:0.350021"
+         id="circle19"
+         cx="33.229168"
+         cy="32.746574"
+         r="13.229166" />
+      <circle
+         style="display:inline;fill:#002a00;fill-opacity:1;stroke-width:0.324094"
+         id="circle20"
+         cx="33.229172"
+         cy="32.746571"
+         r="11.024304" />
+      <text
+         xml:space="preserve"
+         style="font-weight:700;font-size:7.9375px;line-height:1.03;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';text-align:center;text-anchor:middle;display:inline;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+         x="33.171036"
+         y="35.606861"
+         id="text22"
+         inkscape:label="code"><tspan
+           sodipodi:role="line"
+           style="font-size:7.9375px;text-align:center;text-anchor:middle;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+           x="33.171036"
+           y="35.606861"
+           id="tspan22">N2</tspan></text>
+    </g>
+    <g
+       id="g23"
+       transform="matrix(1.2000001,0,0,1.2000001,1299.012,1273.0374)"
+       inkscape:label="N1_circle"
+       style="display:inline"
+       inkscape:highlight-color="#00fe00">
+      <circle
+         style="fill:#76b729;fill-opacity:1;stroke-width:0.350021"
+         id="circle22"
+         cx="33.229168"
+         cy="32.746574"
+         r="13.229166" />
+      <circle
+         style="display:inline;fill:#002a00;fill-opacity:1;stroke-width:0.324094"
+         id="circle23"
+         cx="33.229172"
+         cy="32.746571"
+         r="11.024304" />
+      <text
+         xml:space="preserve"
+         style="font-weight:700;font-size:7.9375px;line-height:1.03;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';text-align:center;text-anchor:middle;display:inline;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+         x="33.171036"
+         y="35.606861"
+         id="text23"
+         inkscape:label="code"><tspan
+           sodipodi:role="line"
+           style="font-size:7.9375px;text-align:center;text-anchor:middle;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+           x="33.171036"
+           y="35.606861"
+           id="tspan23">N1</tspan></text>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="icons_blue"
+     inkscape:highlight-color="#1964b7">
+    <g
+       id="g121"
+       transform="matrix(1.2000001,0,0,1.2000001,1166.625,929.07911)"
+       inkscape:label="BL12_circle"
+       style="display:inline"
+       inkscape:highlight-color="#1964b7">
+      <circle
+         style="fill:#1965b8;fill-opacity:1;stroke-width:0.350021"
+         id="circle115"
+         cx="33.229168"
+         cy="32.746574"
+         r="13.229166" />
+      <circle
+         style="display:inline;fill:#051424;fill-opacity:1;stroke-width:0.324094"
+         id="circle116"
+         cx="33.229172"
+         cy="32.746571"
+         r="11.024304" />
+      <text
+         xml:space="preserve"
+         style="font-weight:700;font-size:7.9375px;line-height:1.03;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';text-align:center;text-anchor:middle;display:inline;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+         x="33.045074"
+         y="31.186354"
+         id="text121"
+         inkscape:label="code"><tspan
+           sodipodi:role="line"
+           style="font-size:7.9375px;text-align:center;text-anchor:middle;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+           x="33.045074"
+           y="31.186354"
+           id="tspan120">BL</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:7.9375px;text-align:center;text-anchor:middle;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+           x="33.045074"
+           y="40.027367"
+           id="tspan121">12</tspan></text>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="clusters">
+    <g
+       id="g99"
+       inkscape:label="BL15_cluster"
+       transform="translate(61.571955,-54.062686)">
+      <rect
+         style="display:inline;fill:none;stroke:#fafafa;stroke-width:1.00352;stroke-dasharray:6.02115, 1.00352;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect104"
+         width="86.537338"
+         height="71.13974"
+         x="1520.5072"
+         y="791.1889" />
+      <g
+         id="g101"
+         transform="matrix(1.2000001,0,0,1.2000001,1501.928,771.58784)"
+         inkscape:label="YL01_circle"
+         style="display:inline"
+         inkscape:highlight-color="#f4da01">
+        <circle
+           style="fill:#f4da01;fill-opacity:1;stroke-width:0.350021"
+           id="circle99"
+           cx="33.229168"
+           cy="32.746574"
+           r="13.229166" />
+        <circle
+           style="display:inline;fill:#292400;fill-opacity:1;stroke-width:0.324094"
+           id="circle100"
+           cx="33.229172"
+           cy="32.746571"
+           r="11.024304" />
+        <text
+           xml:space="preserve"
+           style="font-weight:700;font-size:7.9375px;line-height:1.03;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';text-align:center;text-anchor:middle;display:inline;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+           x="33.045074"
+           y="31.186354"
+           id="text101"
+           inkscape:label="code"><tspan
+             sodipodi:role="line"
+             style="font-size:7.9375px;text-align:center;text-anchor:middle;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+             x="33.045074"
+             y="31.186354"
+             id="tspan101">YL</tspan><tspan
+             sodipodi:role="line"
+             style="font-size:7.9375px;text-align:center;text-anchor:middle;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+             x="33.045074"
+             y="40.027367"
+             id="tspan104">01</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-weight:700;font-size:7.98663px;line-height:1.67;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';display:inline;fill:#fafafa;fill-opacity:1;stroke-width:0.266221"
+         x="1563.5522"
+         y="822.66925"
+         id="text95"
+         inkscape:label="BL15_name_align_left"
+         inkscape:highlight-color="#1964b7"><tspan
+           sodipodi:role="line"
+           style="font-size:7.98663px;fill:#fafafa;fill-opacity:1;stroke-width:0.266221"
+           x="1563.5522"
+           y="822.66925"
+           id="tspan93">Lat Phrao</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:7.98663px;fill:#fafafa;fill-opacity:1;stroke-width:0.266221"
+           x="1563.5522"
+           y="836.67645"
+           id="tspan99">ลาดพร้าว</tspan></text>
+      <g
+         id="g98"
+         transform="matrix(1.2000001,0,0,1.2000001,1501.928,803.33785)"
+         inkscape:label="BL15_circle"
+         style="display:inline"
+         inkscape:highlight-color="#1964b7">
+        <circle
+           style="fill:#1965b8;fill-opacity:1;stroke-width:0.350021"
+           id="circle95"
+           cx="33.229168"
+           cy="32.746574"
+           r="13.229166" />
+        <circle
+           style="display:inline;fill:#051424;fill-opacity:1;stroke-width:0.324094"
+           id="circle96"
+           cx="33.229172"
+           cy="32.746571"
+           r="11.024304" />
+        <text
+           xml:space="preserve"
+           style="font-weight:700;font-size:7.9375px;line-height:1.03;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';text-align:center;text-anchor:middle;display:inline;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+           x="33.045074"
+           y="31.186354"
+           id="text98"
+           inkscape:label="code"><tspan
+             sodipodi:role="line"
+             style="font-size:7.9375px;text-align:center;text-anchor:middle;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+             x="33.045074"
+             y="31.186354"
+             id="tspan96">BL</tspan><tspan
+             sodipodi:role="line"
+             style="font-size:7.9375px;text-align:center;text-anchor:middle;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+             x="33.045074"
+             y="40.027367"
+             id="tspan98">15</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g112"
+       inkscape:label="BL14_cluster">
+      <path
+         id="rect81"
+         style="display:inline;fill:none;stroke:#fafafa;stroke-width:1.39457;stroke-dasharray:8.36737, 1.39457"
+         d="M 1219.1036,791.91802 H 1428.75 v 71.96773 H 1320.2708 V 825.5 h -101.1671 z"
+         sodipodi:nodetypes="ccccccc" />
+      <text
+         xml:space="preserve"
+         style="font-weight:700;font-size:7.98663px;line-height:1.67;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';display:inline;fill:#fafafa;fill-opacity:1;stroke-width:0.266221"
+         x="1359.8545"
+         y="837.38666"
+         id="text93"
+         inkscape:label="BL14_name_align_left"
+         inkscape:highlight-color="#1964b7"><tspan
+           sodipodi:role="line"
+           style="font-size:7.98663px;fill:#fafafa;fill-opacity:1;stroke-width:0.266221"
+           x="1359.8545"
+           y="837.38666"
+           id="tspan105">Phahon Yothin</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:7.98663px;fill:#fafafa;fill-opacity:1;stroke-width:0.266221"
+           x="1359.8545"
+           y="851.39386"
+           id="tspan107">พหลโยธิน </tspan></text>
+      <g
+         id="g94"
+         transform="matrix(1.2000001,0,0,1.2000001,1298.9167,802.19976)"
+         inkscape:label="BL14_circle"
+         style="display:inline"
+         inkscape:highlight-color="#1964b7">
+        <circle
+           style="fill:#1965b8;fill-opacity:1;stroke-width:0.350021"
+           id="circle93"
+           cx="33.229168"
+           cy="32.746574"
+           r="13.229166" />
+        <circle
+           style="display:inline;fill:#051424;fill-opacity:1;stroke-width:0.324094"
+           id="circle94"
+           cx="33.229172"
+           cy="32.746571"
+           r="11.024304" />
+        <text
+           xml:space="preserve"
+           style="font-weight:700;font-size:7.9375px;line-height:1.03;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';text-align:center;text-anchor:middle;display:inline;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+           x="33.045074"
+           y="31.186354"
+           id="text94"
+           inkscape:label="code"><tspan
+             sodipodi:role="line"
+             style="font-size:7.9375px;text-align:center;text-anchor:middle;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+             x="33.045074"
+             y="31.186354"
+             id="tspan94">BL</tspan><tspan
+             sodipodi:role="line"
+             style="font-size:7.9375px;text-align:center;text-anchor:middle;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+             x="33.045074"
+             y="40.027367"
+             id="tspan97">14</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-weight:700;font-size:7.9375px;line-height:1.67;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';display:inline;fill:#fafafa;fill-opacity:1;stroke-width:0.264583"
+         x="1318.1056"
+         y="804.4823"
+         id="text100"
+         inkscape:label="N9_name_align_right"
+         inkscape:highlight-color="#00fe00"><tspan
+           sodipodi:role="line"
+           style="font-size:7.9375px;text-align:end;text-anchor:end;fill:#fafafa;fill-opacity:1;stroke-width:0.264583"
+           x="1318.1056"
+           y="804.4823"
+           id="tspan102">Ha Yaek Lat Phrao</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:7.9375px;text-align:end;text-anchor:end;fill:#fafafa;fill-opacity:1;stroke-width:0.264583"
+           x="1318.1056"
+           y="818.40332"
+           id="tspan103">ห้าแยกลาดพร้าว</tspan></text>
+      <g
+         id="g4"
+         transform="matrix(1.2000001,0,0,1.2000001,1298.9167,770.44984)"
+         inkscape:label="N9_circle"
+         style="display:inline"
+         inkscape:highlight-color="#00fe00">
+        <circle
+           style="fill:#76b729;fill-opacity:1;stroke-width:0.350021"
+           id="circle3"
+           cx="33.229168"
+           cy="32.746574"
+           r="13.229166" />
+        <circle
+           style="display:inline;fill:#002a00;fill-opacity:1;stroke-width:0.324094"
+           id="circle4"
+           cx="33.229172"
+           cy="32.746571"
+           r="11.024304" />
+        <text
+           xml:space="preserve"
+           style="font-weight:700;font-size:7.9375px;line-height:1.03;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';text-align:center;text-anchor:middle;display:inline;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+           x="33.171036"
+           y="35.606861"
+           id="text4"
+           inkscape:label="code"><tspan
+             sodipodi:role="line"
+             style="font-size:7.9375px;text-align:center;text-anchor:middle;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+             x="33.171036"
+             y="35.606861"
+             id="tspan4">N9</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g45"
+       inkscape:label="BL13_cluster"
+       transform="translate(0,95.133433)">
+      <rect
+         style="display:inline;fill:none;stroke:#fafafa;stroke-width:1.32291667;stroke-dasharray:7.93753071,1.32291667;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect93-5"
+         width="223.13492"
+         height="47.947243"
+         x="1205.3724"
+         y="782.22815"
+         inkscape:label="rect93-5" />
+      <g
+         id="g35"
+         transform="matrix(1.2000001,0,0,1.2000001,1267.1667,770.44984)"
+         inkscape:label="BL13_circle"
+         style="display:inline"
+         inkscape:highlight-color="#1964b7">
+        <circle
+           style="fill:#1965b8;fill-opacity:1;stroke-width:0.350021"
+           id="circle21"
+           cx="33.229168"
+           cy="32.746574"
+           r="13.229166" />
+        <circle
+           style="display:inline;fill:#051424;fill-opacity:1;stroke-width:0.324094"
+           id="circle26"
+           cx="33.229172"
+           cy="32.746571"
+           r="11.024304" />
+        <text
+           xml:space="preserve"
+           style="font-weight:700;font-size:7.9375px;line-height:1.03;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';text-align:center;text-anchor:middle;display:inline;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+           x="33.045074"
+           y="31.186354"
+           id="text35"
+           inkscape:label="code"><tspan
+             sodipodi:role="line"
+             style="font-size:7.9375px;text-align:center;text-anchor:middle;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+             x="33.045074"
+             y="31.186354"
+             id="tspan27">BL</tspan><tspan
+             sodipodi:role="line"
+             style="font-size:7.9375px;text-align:center;text-anchor:middle;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+             x="33.045074"
+             y="40.027367"
+             id="tspan35">13</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-weight:700;font-size:7.98663px;line-height:1.67;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';text-align:end;text-anchor:end;display:inline;fill:#fafafa;fill-opacity:1;stroke-width:0.266221"
+         x="1285.9218"
+         y="805.63672"
+         id="text20"
+         inkscape:label="BL13_name_align_right"
+         inkscape:highlight-color="#1964b7"><tspan
+           sodipodi:role="line"
+           style="font-size:7.98663px;text-align:end;text-anchor:end;fill:#fafafa;fill-opacity:1;stroke-width:0.266221"
+           x="1285.9218"
+           y="805.63672"
+           id="tspan15">Chatuchak Park</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:7.98663px;text-align:end;text-anchor:end;fill:#fafafa;fill-opacity:1;stroke-width:0.266221"
+           x="1285.9218"
+           y="819.64392"
+           id="tspan46">สวนจตุจักร</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:700;font-size:7.98663px;line-height:1.67;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';display:inline;fill:#fafafa;fill-opacity:1;stroke-width:0.266221"
+         x="1359.8545"
+         y="799.73987"
+         id="text50"
+         inkscape:label="N8_name_align_left"
+         inkscape:highlight-color="#00fe00"><tspan
+           sodipodi:role="line"
+           style="font-size:7.98663px;fill:#fafafa;fill-opacity:1;stroke-width:0.266221"
+           x="1359.8545"
+           y="799.73987"
+           id="tspan50">Mo Chit</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:7.98663px;fill:#fafafa;fill-opacity:1;stroke-width:0.266221"
+           x="1359.8545"
+           y="813.74707"
+           id="tspan52">หมอชิต </tspan></text>
+      <g
+         id="g44"
+         transform="matrix(1.2000001,0,0,1.2000001,1298.9167,770.44984)"
+         inkscape:label="N8_circle"
+         style="display:inline"
+         inkscape:highlight-color="#00fe00">
+        <circle
+           style="fill:#76b729;fill-opacity:1;stroke-width:0.350021"
+           id="circle42"
+           cx="33.229168"
+           cy="32.746574"
+           r="13.229166" />
+        <circle
+           style="display:inline;fill:#002a00;fill-opacity:1;stroke-width:0.324094"
+           id="circle43"
+           cx="33.229172"
+           cy="32.746571"
+           r="11.024304" />
+        <text
+           xml:space="preserve"
+           style="font-weight:700;font-size:7.9375px;line-height:1.03;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';text-align:center;text-anchor:middle;display:inline;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+           x="33.171036"
+           y="35.606861"
+           id="text44"
+           inkscape:label="code"><tspan
+             sodipodi:role="line"
+             style="font-size:7.9375px;text-align:center;text-anchor:middle;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+             x="33.171036"
+             y="35.606861"
+             id="tspan43">N8</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g135"
+       inkscape:label="BL11_cluster"
+       transform="translate(-395.71631,135.94357)">
+      <rect
+         style="display:inline;fill:none;stroke:#fafafa;stroke-width:1.32291667;stroke-dasharray:7.93755271,1.32291667;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect127"
+         width="375.48544"
+         height="148.11099"
+         x="1182.8895"
+         y="783.07477"
+         inkscape:label="rect93-5" />
+      <g
+         id="g129"
+         transform="matrix(1.2000001,0,0,1.2000001,1271.2997,793.13554)"
+         inkscape:label="BL11_circle"
+         style="display:inline"
+         inkscape:highlight-color="#1964b7">
+        <circle
+           style="fill:#1965b8;fill-opacity:1;stroke-width:0.350021"
+           id="circle127"
+           cx="33.229168"
+           cy="32.746574"
+           r="13.229166" />
+        <circle
+           style="display:inline;fill:#051424;fill-opacity:1;stroke-width:0.324094"
+           id="circle128"
+           cx="33.229172"
+           cy="32.746571"
+           r="11.024304" />
+        <text
+           xml:space="preserve"
+           style="font-weight:700;font-size:7.9375px;line-height:1.03;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';text-align:center;text-anchor:middle;display:inline;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+           x="33.045074"
+           y="31.186354"
+           id="text129"
+           inkscape:label="code"><tspan
+             sodipodi:role="line"
+             style="font-size:7.9375px;text-align:center;text-anchor:middle;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+             x="33.045074"
+             y="31.186354"
+             id="tspan128">BL</tspan><tspan
+             sodipodi:role="line"
+             style="font-size:7.9375px;text-align:center;text-anchor:middle;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+             x="33.045074"
+             y="40.027367"
+             id="tspan129">11</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-weight:700;font-size:7.98663px;line-height:1.67;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';text-align:end;text-anchor:end;display:inline;fill:#fafafa;fill-opacity:1;stroke-width:0.266221"
+         x="1311.0187"
+         y="859.4516"
+         id="text131"
+         inkscape:label="BL11_name_align_center"
+         inkscape:highlight-color="#1964b7"><tspan
+           sodipodi:role="line"
+           style="font-size:7.98663px;text-align:center;text-anchor:middle;fill:#fafafa;fill-opacity:1;stroke-width:0.266221"
+           x="1311.0187"
+           y="859.4516"
+           id="tspan131">Bang Sue</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:7.98663px;text-align:center;text-anchor:middle;fill:#fafafa;fill-opacity:1;stroke-width:0.266221"
+           x="1311.0187"
+           y="873.4588"
+           id="tspan135">บางซื่อ</tspan></text>
+      <g
+         id="g141"
+         transform="matrix(1.2000001,0,0,1.2000001,1239.5497,793.13554)"
+         inkscape:label="BSJ_circle"
+         style="display:inline"
+         inkscape:highlight-color="#1964b7">
+        <circle
+           style="fill:#20ff49;fill-opacity:1;stroke-width:0.350021"
+           id="circle139"
+           cx="33.229168"
+           cy="32.746574"
+           r="13.229166" />
+        <circle
+           style="display:inline;fill:#002908;fill-opacity:1;stroke-width:0.324094"
+           id="circle140"
+           cx="33.229172"
+           cy="32.746571"
+           r="11.024304" />
+        <text
+           xml:space="preserve"
+           style="font-weight:700;font-size:7.9375px;line-height:1.03;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';text-align:center;text-anchor:middle;display:inline;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+           x="33.22142"
+           y="35.604923"
+           id="text141"
+           inkscape:label="code"><tspan
+             sodipodi:role="line"
+             style="font-size:7.9375px;text-align:center;text-anchor:middle;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+             x="33.22142"
+             y="35.604923"
+             id="tspan141">BSJ</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-weight:700;font-size:7.98663px;line-height:1.67;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';text-align:end;text-anchor:end;display:inline;fill:#fafafa;fill-opacity:1;stroke-width:0.266221"
+         x="1264.0529"
+         y="854.21454"
+         id="text143"
+         inkscape:label="BSJ_name_align_right"
+         inkscape:highlight-color="#1964b7"><tspan
+           sodipodi:role="line"
+           style="font-size:7.98663px;text-align:end;text-anchor:end;fill:#fafafa;fill-opacity:1;stroke-width:0.266221"
+           x="1264.0529"
+           y="854.21454"
+           id="tspan143">Bang Sue Junction</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:7.98663px;text-align:end;text-anchor:end;fill:#fafafa;fill-opacity:1;stroke-width:0.266221"
+           x="1264.0529"
+           y="868.22174"
+           id="tspan146">railway station</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:7.98663px;text-align:end;text-anchor:end;fill:#fafafa;fill-opacity:1;stroke-width:0.266221"
+           x="1264.0529"
+           y="882.22888"
+           id="tspan144">สถานีชุมทางบางซื่อ</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:7.98663px;text-align:end;text-anchor:end;fill:#fafafa;fill-opacity:1;stroke-width:0.266221"
+           x="1264.0529"
+           y="896.23608"
+           id="tspan145" /></text>
+      <g
+         id="g148"
+         transform="matrix(1.2000001,0,0,1.2000001,1303.0497,769.32304)"
+         inkscape:label="KTW_circle"
+         style="display:inline"
+         inkscape:highlight-color="#1964b7">
+        <path
+           id="circle147"
+           style="display:inline;fill:#20ff49;fill-opacity:1;stroke-width:0.972282"
+           d="M 53.072865,52.590321 H 19.999951 a 33.072914,33.072914 0 0 0 33.072914,33.072913 z" />
+        <path
+           id="path171"
+           style="display:inline;fill:#fd5353;fill-opacity:1;stroke-width:0.972282"
+           d="M 53.072865,19.517407 A 33.072914,33.072914 0 0 0 19.999951,52.590321 h 33.072914 z" />
+        <path
+           id="path170"
+           style="display:inline;fill:#800000;fill-opacity:1;stroke-width:0.972282"
+           d="M 86.145779,52.590321 H 53.072865 V 85.663234 A 33.072914,33.072914 0 0 0 86.145779,52.590321 Z" />
+        <path
+           id="path172"
+           style="display:inline;fill:#e10506;fill-opacity:1;stroke-width:0.972282"
+           d="M 53.072865,19.517407 V 52.590321 H 86.14578 A 33.072914,33.072914 0 0 0 53.072865,19.517407 Z" />
+        <path
+           id="path173"
+           style="display:inline;fill:#002908;fill-opacity:1;stroke-width:0.810235"
+           d="M 53.072865 52.590321 L 25.512103 52.590321 A 27.560762 27.560762 0 0 0 53.072865 80.151082 L 53.072865 52.590321 z " />
+        <path
+           id="path174"
+           style="display:inline;fill:#280000;fill-opacity:1;stroke-width:0.810235"
+           d="M 53.072865 25.029559 A 27.560762 27.560762 0 0 0 25.512103 52.590321 L 53.072865 52.590321 L 53.072865 25.029559 z " />
+        <path
+           id="path175"
+           style="display:inline;fill:#290000;fill-opacity:1;stroke-width:0.810235"
+           d="M 80.633627 52.590321 L 53.072865 52.590321 L 53.072865 80.151082 A 27.560762 27.560762 0 0 0 80.633627 52.590321 z " />
+        <path
+           id="path176"
+           style="display:inline;fill:#280101;fill-opacity:1;stroke-width:0.810235"
+           d="M 53.072865 25.029559 L 53.072865 52.590321 L 80.633627 52.590321 A 27.560762 27.560762 0 0 0 53.072865 25.029559 z " />
+        <text
+           xml:space="preserve"
+           style="font-weight:700;font-size:7.9375px;line-height:1.03;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';text-align:center;text-anchor:middle;display:inline;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+           x="52.958569"
+           y="33.038017"
+           id="text148"
+           inkscape:label="code"
+           transform="translate(1.0416666e-5)"><tspan
+             sodipodi:role="line"
+             style="font-size:7.9375px;text-align:center;text-anchor:middle;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+             x="52.958569"
+             y="33.038017"
+             id="tspan148">KTW</tspan><tspan
+             sodipodi:role="line"
+             style="font-size:7.9375px;text-align:center;text-anchor:middle;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+             x="52.958569"
+             y="41.879032"
+             id="tspan150">( RN01</tspan><tspan
+             sodipodi:role="line"
+             style="font-size:7.9375px;text-align:center;text-anchor:middle;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+             x="52.958569"
+             y="50.720047"
+             id="tspan153">/ RW01</tspan><tspan
+             sodipodi:role="line"
+             style="font-size:7.9375px;text-align:center;text-anchor:middle;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+             x="52.958569"
+             y="59.561062"
+             id="tspan151">/ RE01</tspan><tspan
+             sodipodi:role="line"
+             style="font-size:7.9375px;text-align:center;text-anchor:middle;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+             x="52.958569"
+             y="68.402077"
+             id="tspan159">/ RS01</tspan><tspan
+             sodipodi:role="line"
+             style="font-size:7.9375px;text-align:center;text-anchor:middle;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+             x="52.958569"
+             y="77.243088"
+             id="tspan160">/ A9 )</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-weight:700;font-size:7.98663px;line-height:1.67;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';text-align:start;text-anchor:start;display:inline;fill:#fafafa;fill-opacity:1;stroke-width:0.266221"
+         x="1406.201"
+         y="878.02704"
+         id="text158"
+         inkscape:label="KTW_name_align_right"
+         inkscape:highlight-color="#1964b7"><tspan
+           sodipodi:role="line"
+           style="font-size:7.98663px;text-align:start;text-anchor:start;fill:#fafafa;fill-opacity:1;stroke-width:0.266221"
+           x="1406.201"
+           y="878.02704"
+           id="tspan158">Krung Thep Aphiwat Central Terminal</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:7.98663px;text-align:start;text-anchor:start;fill:#fafafa;fill-opacity:1;stroke-width:0.266221"
+           x="1406.201"
+           y="892.03424"
+           id="tspan163">(Bang Sue Grand Station)</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:7.98663px;text-align:start;text-anchor:start;fill:#fafafa;fill-opacity:1;stroke-width:0.266221"
+           x="1406.201"
+           y="906.04138"
+           id="tspan164">สถานีกลางกรุงเทพอภิวัฒน์</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:7.98663px;text-align:start;text-anchor:start;fill:#fafafa;fill-opacity:1;stroke-width:0.266221"
+           x="1406.201"
+           y="920.04858"
+           id="tspan165">(สถานีกลางบางซื่อ)</tspan></text>
+    </g>
+    <g
+       id="g177"
+       inkscape:label="CEN_cluster"
+       transform="translate(0,26.458294)">
+      <g
+         id="g27"
+         transform="matrix(1.2000001,0,0,1.2000001,1351.8333,1299.4958)"
+         inkscape:label="CEN_circle"
+         style="display:inline"
+         inkscape:highlight-color="#02817d">
+        <path
+           style="fill:#002a00;fill-opacity:1;stroke:#fafafa;stroke-width:0.349911;stroke-dasharray:none;stroke-opacity:1"
+           d="M 22.204807,45.975718 H 44.253416"
+           id="path110" />
+        <path
+           id="circle24"
+           style="fill:#02817d;fill-opacity:1;stroke-width:0.495004"
+           d="m 46.458334,45.975701 v 0 A 13.229166,26.458331 0 0 1 33.229168,72.434032 13.229166,26.458331 0 0 1 20.000002,45.975701" />
+        <path
+           id="path43"
+           style="fill:#76b729;fill-opacity:1;stroke-width:0.495004"
+           d="M 20.000002,45.975739 A 13.229166,26.458331 0 0 1 33.229168,19.517408 13.229166,26.458331 0 0 1 46.458333,45.975739" />
+        <path
+           id="circle25"
+           style="display:inline;fill:#012827;fill-opacity:1;stroke-width:0.40995"
+           d="m 44.253476,45.9757 v 0 A 11.024304,17.638887 0 0 1 33.229172,63.614588 11.024304,17.638887 0 0 1 22.204867,45.9757" />
+        <path
+           id="path111"
+           style="display:inline;fill:#002a00;fill-opacity:1;stroke-width:0.40995"
+           d="M 22.204867,45.9757 A 11.024304,17.638887 0 0 1 33.229172,28.336813 11.024304,17.638887 0 0 1 44.253476,45.9757" />
+        <text
+           xml:space="preserve"
+           style="font-weight:700;font-size:7.9375px;line-height:1.03;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';text-align:center;text-anchor:middle;display:inline;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+           x="33.171036"
+           y="48.835991"
+           id="text25"
+           inkscape:label="code"><tspan
+             sodipodi:role="line"
+             style="font-size:7.9375px;text-align:center;text-anchor:middle;fill:#fcfcfc;fill-opacity:1;stroke-width:0.264583"
+             x="33.171036"
+             y="48.835991"
+             id="tspan25">CEN</tspan></text>
+      </g>
+      <rect
+         style="display:inline;fill:none;stroke:#fafafa;stroke-width:1.72974;stroke-dasharray:none;stroke-opacity:1"
+         id="rect81-7"
+         width="35.311928"
+         height="109.39526"
+         x="1374.0524"
+         y="1321.1357" />
+      <text
+         xml:space="preserve"
+         style="font-weight:700;font-size:7.9375px;line-height:1.67;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';display:inline;fill:#fafafa;fill-opacity:1;stroke-width:0.264583"
+         x="1391.627"
+         y="1399.4484"
+         id="text116"
+         inkscape:label="CEN_name_align_left"
+         inkscape:highlight-color="#02817d"><tspan
+           sodipodi:role="line"
+           style="font-size:7.9375px;text-align:center;text-anchor:middle;fill:#fafafa;fill-opacity:1;stroke-width:0.264583"
+           x="1391.627"
+           y="1399.4484"
+           id="tspan116">Siam</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:7.9375px;text-align:center;text-anchor:middle;fill:#fafafa;fill-opacity:1;stroke-width:0.264583"
+           x="1391.627"
+           y="1413.3694"
+           id="tspan119">[Sayam]</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:7.9375px;text-align:center;text-anchor:middle;fill:#fafafa;fill-opacity:1;stroke-width:0.264583"
+           x="1391.627"
+           y="1427.2904"
+           id="tspan117">สยาม</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:7.9375px;text-align:center;text-anchor:middle;fill:#fafafa;fill-opacity:1;stroke-width:0.264583"
+           x="1391.627"
+           y="1441.2114"
+           id="tspan118" /></text>
+    </g>
+  </g>
+  <rect
+     style="display:inline;fill:none;stroke:#fafafa;stroke-width:1.32291667;stroke-dasharray:7.93753071, 1.32291667;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect83"
+     width="223.13492"
+     height="47.947243"
+     x="1205.3724"
+     y="782.22815"
+     transform="translate(0,95.133433)" />
+  <text
+     xml:space="preserve"
+     style="font-weight:400;font-size:7.9375px;line-height:1.67;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';display:inline;fill:#fafafa;stroke-width:0.264583;fill-opacity:1"
+     x="98.750305"
+     y="111.66631"
+     id="text17-9-1"
+     inkscape:label="name_align_right"><tspan
+       sodipodi:role="line"
+       style="font-size:7.9375px;text-align:end;text-anchor:end;stroke-width:0.264583;fill:#fafafa;fill-opacity:1"
+       x="98.750305"
+       y="111.66631"
+       id="tspan17-3-8">Khu  Khot</tspan><tspan
+       sodipodi:role="line"
+       style="font-size:7.9375px;text-align:end;text-anchor:end;stroke-width:0.264583;fill:#fafafa;fill-opacity:1"
+       x="98.750305"
+       y="125.58733"
+       id="tspan32-6-7">คูคต คูคูคูคูคูคูคูคูคู</tspan><tspan
+       sodipodi:role="line"
+       style="font-size:7.9375px;text-align:end;text-anchor:end;stroke-width:0.264583;fill:#fafafa;fill-opacity:1"
+       x="98.750305"
+       y="139.97238"
+       id="tspan5-0-9">쿠콧 สถานที่ที่</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-weight:400;font-size:7.9375px;line-height:1.67;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';display:inline;fill:#fafafa;stroke-width:0.264583;fill-opacity:1"
+     x="69.052216"
+     y="58.749641"
+     id="text17-9"
+     inkscape:label="name_align_mid"><tspan
+       sodipodi:role="line"
+       style="font-size:7.9375px;text-align:center;text-anchor:middle;stroke-width:0.264583;fill:#fafafa;fill-opacity:1"
+       x="69.052216"
+       y="58.749641"
+       id="tspan17-3">Khu  Khot</tspan><tspan
+       sodipodi:role="line"
+       style="font-size:7.9375px;text-align:center;text-anchor:middle;stroke-width:0.264583;fill:#fafafa;fill-opacity:1"
+       x="69.052216"
+       y="72.670654"
+       id="tspan32-6">คูคต คูคูคูคูคูคูคูคูคู</tspan><tspan
+       sodipodi:role="line"
+       style="font-size:7.9375px;text-align:center;text-anchor:middle;stroke-width:0.264583;fill:#fafafa;fill-opacity:1"
+       x="69.052216"
+       y="87.05571"
+       id="tspan5-0">쿠콧 สถานที่ที่</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-weight:400;font-size:7.9375px;line-height:1.67;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';display:inline;fill:#fafafa;stroke-width:0.264583;fill-opacity:1"
+     x="39.449371"
+     y="5.8329773"
+     id="text17"
+     inkscape:label="name_align_left"><tspan
+       sodipodi:role="line"
+       style="font-size:7.9375px;stroke-width:0.264583;fill:#fafafa;fill-opacity:1"
+       x="39.449371"
+       y="5.8329773"
+       id="tspan17">Khu  Khot</tspan><tspan
+       sodipodi:role="line"
+       style="font-size:7.9375px;stroke-width:0.264583;fill:#fafafa;fill-opacity:1"
+       x="39.449371"
+       y="19.753992"
+       id="tspan32">คูคต คูคูคูคูคูคูคูคูคู</tspan><tspan
+       sodipodi:role="line"
+       style="font-size:7.9375px;stroke-width:0.264583;fill:#fafafa;fill-opacity:1"
+       x="39.449371"
+       y="34.139046"
+       id="tspan5">쿠콧 สถานที่ที่</tspan></text>
+  <g
+     inkscape:label="icons_test"
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:highlight-color="#fe8383"
+     style="display:inline">
+    <g
+       id="g15-3"
+       transform="matrix(1.2000001,0,0,1.2000001,-24.000004,-23.420892)"
+       inkscape:label="RWS01_circle"
+       style="display:inline"
+       inkscape:highlight-color="#00fe00">
+      <circle
+         style="fill:#fd5353;fill-opacity:1;stroke-width:0.350021"
+         id="circle14-7"
+         cx="33.229168"
+         cy="32.746574"
+         r="13.229166" />
+      <circle
+         style="fill:#0a0a0a;fill-opacity:1;stroke-width:0.324094"
+         id="circle15-5"
+         cx="33.229172"
+         cy="32.746571"
+         r="11.024304" />
+      <text
+         xml:space="preserve"
+         style="font-weight:700;font-size:7.9375px;line-height:1.03;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';text-align:center;text-anchor:middle;display:inline;fill:#fafafa;fill-opacity:1;stroke-width:0.264583"
+         x="33.229172"
+         y="32.746571"
+         id="text15-9"
+         inkscape:label="code"><tspan
+           sodipodi:role="line"
+           style="font-size:7.9375px;text-align:center;text-anchor:middle;fill:#fafafa;fill-opacity:1;stroke-width:0.264583"
+           x="33.229172"
+           y="32.746571"
+           id="tspan15-2">RWS</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:7.9375px;text-align:center;text-anchor:middle;fill:#fafafa;fill-opacity:1;stroke-width:0.264583"
+           x="33.229172"
+           y="41.587585"
+           id="tspan26-2">01</tspan></text>
+    </g>
+    <g
+       id="g15-36"
+       transform="matrix(1.2000001,0,0,1.2000001,-24.000004,29.495774)"
+       inkscape:label="N23_circle"
+       style="display:inline"
+       inkscape:highlight-color="#00fe00">
+      <circle
+         style="fill:#fd5353;fill-opacity:1;stroke-width:0.350021"
+         id="circle14-1"
+         cx="33.229168"
+         cy="32.746574"
+         r="13.229166" />
+      <circle
+         style="fill:#0a0a0a;fill-opacity:1;stroke-width:0.324094"
+         id="circle15-2"
+         cx="33.229172"
+         cy="32.746571"
+         r="11.024304" />
+      <text
+         xml:space="preserve"
+         style="font-weight:700;font-size:7.9375px;line-height:1.03;font-family:Monda, Sarabun, Hahmlet;-inkscape-font-specification:'Sarabun, Bold';text-align:center;text-anchor:middle;display:inline;fill:#fafafa;fill-opacity:1;stroke-width:0.264583"
+         x="33.229172"
+         y="32.746571"
+         id="text15-93"
+         inkscape:label="code"><tspan
+           sodipodi:role="line"
+           style="font-size:7.9375px;text-align:center;text-anchor:middle;fill:#fafafa;fill-opacity:1;stroke-width:0.264583"
+           x="33.229172"
+           y="32.746571"
+           id="tspan28">RW</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:7.9375px;text-align:center;text-anchor:middle;fill:#fafafa;fill-opacity:1;stroke-width:0.264583"
+           x="33.229172"
+           y="41.587585"
+           id="tspan29">01</tspan></text>
+    </g>
+  </g>
+</svg>
