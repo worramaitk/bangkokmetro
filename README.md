@@ -1,11 +1,19 @@
 ## English
-This is a SVG Map of Bangkok mass rapid transit systems. Created with Inkscape. The font [Sarabun](https://github.com/cadsondemak/Sarabun) is used throughout this map.
+This is a SVG Map of Bangkok mass rapid transit systems. Created with Inkscape. This map uses the typefaces [Monda](https://fonts.google.com/specimen/Monda) and [Sarabun](https://fonts.google.com/specimen/Sarabun).
 
-SVG version
-![alt text](https://raw.githubusercontent.com/worramaitk/bangkokmetro/main/bangkok-metro-map-alpha4.svg)
+## Dark version
+### as SVG
+![alt text](https://raw.githubusercontent.com/worramaitk/bangkokmetro/refs/heads/main/2024-10-03-dark-bangkok-metro-map-beta.svg)
 
-PNG version
-![alt text](https://raw.githubusercontent.com/worramaitk/bangkokmetro/main/bangkok-metro-map-alpha4.png)
+### as PNG
+![alt text](https://raw.githubusercontent.com/worramaitk/bangkokmetro/refs/heads/main/2024-10-03-dark-bangkok-metro-map-beta.png)
+
+## Light version
+### as SVG
+![alt text](https://raw.githubusercontent.com/worramaitk/bangkokmetro/refs/heads/main/2024-10-03-light-bangkok-metro-map-beta.svg)
+
+### as PNG
+![alt text](https://raw.githubusercontent.com/worramaitk/bangkokmetro/refs/heads/main/2024-10-03-light-bangkok-metro-map-beta.png)
 
 I was inspired by these maps.
 1. ["2023 Map of Bangkok mass rapid transit" by Zeddlex on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2023versionofbangkokmassrapidtransitmap.png)
