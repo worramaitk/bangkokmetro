@@ -1,3 +1,6 @@
+## Thai
+แผนที่ SVG ของระบบรถไฟฟ้าและระบบขนส่งมวลชนอื่นๆ ในกรุงเทพฯ และปริมณฑล แผนที่นี้สร้างโดยใช้โปรแกรม Inkscape แผนที่นี้ใช้ฟอนต์ [Monda](https://fonts.google.com/specimen/Monda) และ [Sarabun](https://fonts.google.com/specimen/Sarabun).
+
 ## English
 This is a SVG Map of Bangkok mass rapid transit systems. Created with Inkscape. This map uses the typefaces [Monda](https://fonts.google.com/specimen/Monda) and [Sarabun](https://fonts.google.com/specimen/Sarabun).
 
