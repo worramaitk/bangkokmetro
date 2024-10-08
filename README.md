@@ -6,12 +6,12 @@ This is a SVG Map of Bangkok mass rapid transit systems. Created with Inkscape. 
 
 ## Dark version
 ### as SVG
-![alt text](https://raw.githubusercontent.com/worramaitk/bangkokmetro/refs/heads/main/2024-10-03-dark-bangkok-metro-map-beta.svg)
+![alt text](https://raw.githubusercontent.com/worramaitk/bangkokmetro/refs/heads/main/2024-10-08-dark-bangkok-metro-map-beta.svg)
 
 ### as PNG
 ![alt text](https://raw.githubusercontent.com/worramaitk/bangkokmetro/refs/heads/main/2024-10-03-dark-bangkok-metro-map-beta.png)
 
-## Light version (incomplete-ish)
+## Light version (incomplete!!!)
 ### as SVG
 ![alt text](https://raw.githubusercontent.com/worramaitk/bangkokmetro/refs/heads/main/2024-10-03-light-bangkok-metro-map-beta.svg)
 
