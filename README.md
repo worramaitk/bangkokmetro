@@ -6,17 +6,17 @@ This is a Map of Bangkok mass rapid transit systems. I created this map with [In
 
 ## Dark version
 ### as SVG
-![alt text](https://raw.githubusercontent.com/worramaitk/bangkokmetro/refs/heads/main/2024-10-08-dark-bangkok-metro-map-beta.svg)
+![alt text](https://raw.githubusercontent.com/worramaitk/bangkokmetro/refs/heads/main/2025-dark-bangkok-metro-map-beta.svg)
 
 ### as PNG
-![alt text](https://raw.githubusercontent.com/worramaitk/bangkokmetro/refs/heads/main/2024-10-08-dark-bangkok-metro-map-beta.png)
+![alt text](https://raw.githubusercontent.com/worramaitk/bangkokmetro/refs/heads/main/2025-dark-bangkok-metro-map-beta.png)
 
 ## Light version 
 ### as SVG
-![alt text](https://raw.githubusercontent.com/worramaitk/bangkokmetro/refs/heads/main/2024-10-08-light-bangkok-metro-map-beta.svg)
+![alt text](https://raw.githubusercontent.com/worramaitk/bangkokmetro/refs/heads/main/2025-light-bangkok-metro-map-beta.svg)
 
 ### as PNG
-![alt text](https://raw.githubusercontent.com/worramaitk/bangkokmetro/refs/heads/main/2024-10-08-light-bangkok-metro-map-beta.png)
+![alt text](https://raw.githubusercontent.com/worramaitk/bangkokmetro/refs/heads/main/2025-light-bangkok-metro-map-beta.png)
 
 ## Special thanks
 I was inspired by these maps.
