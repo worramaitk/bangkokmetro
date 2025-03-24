@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="160"
+   height="80"
+   viewBox="0 0 42.333332 21.166667"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="27a_rectangle_khlongsaensaep.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="2.7868023"
+     inkscape:cx="101.55008"
+     inkscape:cy="34.627501"
+     inkscape:window-width="1443"
+     inkscape:window-height="792"
+     inkscape:window-x="174"
+     inkscape:window-y="120"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g2177"
+       inkscape:label="rectangle N1"
+       transform="translate(-1035.8133,37.207211)"
+       style="display:inline">
+      <rect
+         style="display:inline;fill:#ff00f2;fill-opacity:1;stroke:#ffe196;stroke-width:0;stroke-dasharray:none"
+         id="rect2176"
+         width="42.333332"
+         height="21.166666"
+         x="1035.8134"
+         y="-37.207214" />
+      <rect
+         style="fill:#330030;fill-opacity:1;stroke:#ffe196;stroke-width:0;stroke-dasharray:none"
+         id="rect2177"
+         width="37.041668"
+         height="15.875"
+         x="1038.4592"
+         y="-34.561382" />
+    </g>
+  </g>
+</svg>
